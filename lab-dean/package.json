@@ -1,0 +1,19 @@
+{
+  "name": "lab-dean",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "jest": "^22.1.4",
+    "uuid": "^3.2.1"
+  }
+}
